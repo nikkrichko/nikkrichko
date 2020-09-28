@@ -6,7 +6,7 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
 
-I am an expert in performance testing.
+I am an expert in performance testing and data engineering.
 
 I create performance tests and build processes for finding performance issues. I help companies to understand why their programs work slowly. I teach people to look for and prevent such kind of issues.
 
@@ -14,7 +14,7 @@ I am looking for problems not only in programs but also in processes. I define t
 
 
 Companies contact me when they need to understand:
-- why the program is slow ;
+- why the program is slow;
 - when it is necessary to build a process for detecting performance issues from scratch;
 - when it needs to teach the system automatically find issues during the development process.
 
@@ -71,12 +71,15 @@ Python | :black_circle::black_circle::black_circle::black_circle::white_circle: 
 JAVA | :black_circle::black_circle::black_circle::white_circle::white_circle: |
 groovy | :black_circle::black_circle::black_circle::white_circle::white_circle: |
 bash, powerShell | :black_circle::black_circle::black_circle::white_circle::white_circle: |
-* frameworks: Selenium webDriver, selenoid, zeep, requests, tidyverse, shiny, Scikit-learn, pandas, pytest, testNg, Junit
+* data engineering: PySpark, Dask, Twisted, Tornado, asyncio, flask, rest, pytest, unittest,Tensorflow, pandas, plotly, dash, keras, numpy, scipy, mathplotlib, tesseract,
+* frameworks: Selenium webDriver, selenoid, zeep, requests, tidyverse, shiny, Scikit-learn, pandas, pytest, testNg, Junit,
 * testing tools: Load runner, jmeter, Gatling, tsung, ReadyAPI/SoapUI, postman
-* DB: mysql, postreSql MSsql, Oracle SQL, 
-* Virtulization: vmware esxi
+* DB: mysql, postreSql, MSsql, Oracle SQL, mongoDB, sybase SQL
+* virtulization: vmware esxi
+* conteinerization: kubernetes, docker
 * CI/CD tools: teamcity, jenkins, hudson, azure devops, docker
 * monitoring: Dynatrace, appDynamics, newRelic, DataDog
+* cloud: AWS, AZURE
 
 
 ### WORKING EXPERIENCE
