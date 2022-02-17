@@ -105,7 +105,12 @@ years | university | specialization
 
 	
 
-### My blog (maybe in future)
+### My Articles
+
+* [Comparing Graviton (ARM) Performance to Intel and AMD for MySQL (Part 1) - m5](https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/)
+* [Comparing Graviton (ARM) Performance to Intel and AMD for MySQL (Part 2) - c5](https://www.percona.com/blog/comparing-graviton-arm-performance-to-intel-and-amd-for-mysql-part-2/)
+* [Comparing Graviton (ARM) Performance to Intel and AMD for MySQL (Part 3) - m6](https://www.percona.com/blog/comparing-graviton-arm-performance-to-intel-and-amd-for-mysql-part-3/)
+* [Economical Comparison of AWS CPUs for MySQL (ARM vs Intel vs AMD)](https://www.percona.com/blog/economical-comparison-of-aws-cpus-for-mysql-arm-vs-intel-vs-amd/)
 
 ### VIDEO (from conferences)
 
