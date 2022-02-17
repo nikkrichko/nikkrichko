@@ -91,7 +91,6 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 ### WORKING EXPERIENCE
 years | company | roles
 ------|---------|-------
-
 2020 - till now	| **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
 2021 - 2022	| **Percona**			| Performance engineer
 2019 - 2020     | **Svitla system**		| Senior performance engineer
