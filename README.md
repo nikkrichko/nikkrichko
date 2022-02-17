@@ -42,6 +42,8 @@ My mission is to create one button - which can say why the application is slow
 * Create CI performance framework in a company
 * Invent performance testing pipeline in a company
 * Structured performance methodology in a company
+* Build perfomance testing framework for legacy technologies (fat client performance testing)
+* Develop performance and profiling tools for legacy technologies
         
 #### DATA SCIENCE PROJECTS
     
@@ -51,12 +53,16 @@ My mission is to create one button - which can say why the application is slow
 * Other: detect anomalies in time series for bug and route cause detection on performance testing
         
 #### METHODOLOGY PROJECTS
-    
+
+* Develop methodology for economical efficiency performance benchmark of different CPUs for DBs
+* Develop methodology for AI performance testing
+* Develop performance testing process for release certification jobs 
 * Develop methodology for performance testing and benchmarking services with neural network on backend
 * Develop methodology of performance testing management: "From chaos to application performance management"
 * Develop a methodology for faster gathering performance testing results using machine learning
 * Develop strategy (algorithm) about getting information about changes in application performance in one performance run
 * Develop an approach for predicting expected result without defined requirements (based on historical results and ARIMA forecasting) 
+
         
 #### EDUCATIONAL PROJECTS
 
@@ -85,9 +91,14 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 ### WORKING EXPERIENCE
 years | company | roles
 ------|---------|-------
-2016 - till now | **Itera**			| Data engineer / Data scientiest / Performance engineer  (prev. Senior Performance Engineer)
+
+2020 - till now	| **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
+2021 - 2022	| **Percona**			| Performance engineer
+2019 - 2020     | **Svitla system**		| Senior performance engineer
+2019 - 2020	| **DNVGL**			| Performance architect - consulting
+2016 - 2022	| **Itera**			| Data engineer / Data scientiest / Performance engineer  (prev. Senior Performance Engineer)
 2016 - 2016     | **Luxoft**			| Senior performance test engineer
-2014 - 2016     | **Terrasoft**		| System analyst / Performance test Engineer / QA Engineer
+2014 - 2016     | **Terrasoft**			| System analyst / Performance test Engineer / QA Engineer
 2013 - 2014     | **SRS**			| QA engineer
 2011 - 2013     | **Apeal court**		| System administratod / Deputy IT department
 2009 - 2010     | **SDICSED**			| System administrator
