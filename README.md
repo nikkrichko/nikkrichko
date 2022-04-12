@@ -92,9 +92,10 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 years | company | roles
 ------|---------|-------
 2020 - till now	| **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
-2021 - 2022	| **Percona**			| Performance engineer
+2021 - 2022	| **PropellMinds**		| Senior performance engineer - consulting
+2021 - 2022	| **Percona**			| Performance engineer - consulting
 2019 - 2020     | **Svitla system**		| Senior performance engineer
-2019 - 2020	| **DNVGL**			| Performance architect - consulting
+2019 - 2022	| **DNVGL**			| Performance architect - consulting
 2016 - 2022	| **Itera**			| Data engineer / Data scientiest / Performance engineer  (prev. Senior Performance Engineer)
 2016 - 2016     | **Luxoft**			| Senior performance test engineer
 2014 - 2016     | **Terrasoft**			| System analyst / Performance test Engineer / QA Engineer
