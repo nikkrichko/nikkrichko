@@ -89,13 +89,17 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 
 
 ### WORKING EXPERIENCE
-years | company | roles
+year | company / projects | roles
 ------|---------|-------
-2020    | **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
+2022	| **N-ix**                      | Senior R developer
 2021 	| **PropellMinds**		| Senior performance engineer - consulting
 2021 	| **Percona**			| Performance engineer - consulting
-2019    | **Svitla system**		| Senior performance engineer
+2020    | **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
+2019    | **HintMD**			| Senior performance engineer
 2019 	| **DNVGL**			| Performance architect - consulting
+2018    | **RB**              		| Performance architect - consulting
+2018    | **NDA-banki**                 | Senior Performance Engineer
+2016    | **Islandsbanki**              | Senior Performance Engineer
 2016 	| **Itera**			| Data engineer / Data scientiest / Performance engineer  (prev. Senior Performance Engineer)
 2016    | **Luxoft**			| Senior performance test engineer
 2014    | **Terrasoft**			| System analyst / Performance test Engineer / QA Engineer
