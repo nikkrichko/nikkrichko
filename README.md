@@ -91,18 +91,18 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 ### WORKING EXPERIENCE
 years | company | roles
 ------|---------|-------
-2020 - till now	| **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
-2021 - 2022	| **PropellMinds**		| Senior performance engineer - consulting
-2021 - 2022	| **Percona**			| Performance engineer - consulting
-2019 - 2020     | **Svitla system**		| Senior performance engineer
-2019 - 2022	| **DNVGL**			| Performance architect - consulting
-2016 - 2022	| **Itera**			| Data engineer / Data scientiest / Performance engineer  (prev. Senior Performance Engineer)
-2016 - 2016     | **Luxoft**			| Senior performance test engineer
-2014 - 2016     | **Terrasoft**			| System analyst / Performance test Engineer / QA Engineer
-2013 - 2014     | **SRS**			| QA engineer
-2011 - 2013     | **Apeal court**		| System administratod / Deputy IT department
-2009 - 2010     | **SDICSED**			| System administrator
-2008 - 2009     | **Geochemincal insitute**	| System administrator
+2020    | **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
+2021 	| **PropellMinds**		| Senior performance engineer - consulting
+2021 	| **Percona**			| Performance engineer - consulting
+2019    | **Svitla system**		| Senior performance engineer
+2019 	| **DNVGL**			| Performance architect - consulting
+2016 	| **Itera**			| Data engineer / Data scientiest / Performance engineer  (prev. Senior Performance Engineer)
+2016    | **Luxoft**			| Senior performance test engineer
+2014    | **Terrasoft**			| System analyst / Performance test Engineer / QA Engineer
+2013    | **SRS**			| QA engineer
+2011    | **Apeal court**		| System administratod / Deputy IT department
+2009    | **SDICSED**			| System administrator
+2008    | **Geochemincal insitute**	| System administrator
 
 ### EDUCATION
 years | university | specialization
