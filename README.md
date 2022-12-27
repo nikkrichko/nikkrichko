@@ -93,10 +93,11 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 ### WORKING EXPERIENCE
 year | company / projects | roles
 ------|---------|-------
+2022	| **Casenet llc**		| Senior performance engineer
 2022	| **N-ix**                      | Senior R developer
 2021 	| **PropellMinds**		| Senior performance engineer - consulting
 2021 	| **Percona**			| Performance engineer - consulting
-2020    | **Datarobot**			| Principal performance AI engineer (prev. Senior performance engineer)
+2020    | **Datarobot**			| Senior AI performance engineer (prev. Senior performance engineer)
 2019    | **HintMD**			| Senior performance engineer
 2019 	| **DNVGL**			| Performance architect - consulting
 2018    | **RB**              		| Performance architect - consulting
