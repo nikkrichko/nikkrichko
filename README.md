@@ -32,6 +32,8 @@ My mission is to create one button - which can say why the application is slow
 #### PERFORMANCE TESTING PROJECTS
     
 * Performance testing of the neural network's services
+* Devolop reporting API for generated yearly/monthly reports about system usage
+* Develop performance testing framework for elastic search engine
 * Anomaly detection in performance testing (static)
 * Anomaly detection for monitoring system (dynamic via Plumber)
 * Add machine learning in performance testing
