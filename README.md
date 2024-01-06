@@ -93,6 +93,7 @@ bash, powerShell | :black_circle::black_circle::black_circle::white_circle::whit
 ### WORKING EXPERIENCE
 year | company / projects | roles
 ------|---------|-------
+2023	| **Crown Castle**		| Senior Cloud platform engineer
 2022	| **Casenet llc**		| Senior performance engineer
 2022	| **N-ix**                      | Senior R developer
 2021 	| **PropellMinds**		| Senior performance engineer - consulting
